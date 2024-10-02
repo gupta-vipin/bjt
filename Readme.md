@@ -1,4 +1,4 @@
-[**1: Introduction to BJTs**]("introduction")
+[**1: Introduction to BJTs**](introduction)
 
 *   The bipolar junction transistor (BJT) was invented in 1948. 
 *   A BJT is a three-terminal device that uses a small current at its base to control a larger current flowing between the emitter and collector.
